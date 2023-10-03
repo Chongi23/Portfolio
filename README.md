@@ -1,7 +1,13 @@
 ## User Story
 
 I have built a simple react app that is my resume, it was made using react, it is deployed to gh-pages.
-```
+
+
+## Live Link
+https://chongi23.github.io/Portfolio/
+
+## GH REPO
+https://github.com/Chongi23/Portfolio
 
 ## Acceptance Criteria
 
