@@ -1,5 +1,7 @@
 import React from 'react';
 
+
+
 export default function About() {
     return (
         <div>
@@ -16,6 +18,7 @@ export default function About() {
             <p> I enjoy running along the river , reading, and spending time with my dogs, learning as much as I can and loving life are 
                 two big goals for me.
             </p>
+            
         </div>
     );
 }
